@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/Htbeyond_to.png)
 
-MISSION
+**MISSION**
 
 “기술의 현재를 뛰어넘어, 인간과 삶을 보다 가치있게 하는 세상을 만든다”
 기술(Technology)에 주목하지만 현재에 만족하지 않고,
@@ -17,7 +17,7 @@ MISSION
 
 
 
-VISION
+**VISION**
 
 “전 세계 전문가들이 인정하는 IoT Service Platform을 보유한 회사”
 현재 인간과 가장 맞닿아 있는 Smart-X solutions
@@ -29,7 +29,7 @@ VISION
 
 
 
-CORE VALUES
+**CORE VALUES**
 
 – 열정은 몰입을 만든다
 – 실행 없는 추구는 빈 깡통이다
