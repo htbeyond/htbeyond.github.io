@@ -18,7 +18,7 @@ avatar: http://htbeyond.co.kr/wp-content/uploads/2015/11/beyond-e1447309386545.p
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:"admin@htbeyond.com"
+  email:
   facebook:
   flickr:
   github: 
