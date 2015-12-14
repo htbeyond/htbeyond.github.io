@@ -4,16 +4,21 @@ title: About
 permalink: /about/
 ---
 
-beyond
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
 MISSION
+
 “기술의 현재를 뛰어넘어, 인간과 삶을 보다 가치있게 하는 세상을 만든다”
 기술(Technology)에 주목하지만 현재에 만족하지 않고,
 이를 뛰어넘어(beyond),
 인간과 삶(Human-being)의 가치를 추구하여,
 새로운 세상을 열어가는 주체가 되어야만 합니다.
 
+
+
 VISION
+
 “전 세계 전문가들이 인정하는 IoT Service Platform을 보유한 회사”
 현재 인간과 가장 맞닿아 있는 Smart-X solutions
 그 중에서도 미래를 준비하는 Smart home / IoT services는 HT beyond가 가장 힘을 크게 발휘할 수 있는 영역입니다.
@@ -22,7 +27,10 @@ VISION
 관련 업계에서 칭송받는 IoT Service Platform을 완성하고, 자랑할 것입니다.
 이를 통해, 기술적 기반과 그를 뛰어넘는 insight로, 인간과 삶의 가치를 구현하는 초석을 다질 것입니다.
 
+
+
 CORE VALUES
+
 – 열정은 몰입을 만든다
 – 실행 없는 추구는 빈 깡통이다
 – 나의 모든 생각과 행동은, 나의 긍지의 표현이다
