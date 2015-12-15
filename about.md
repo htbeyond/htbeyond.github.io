@@ -18,6 +18,8 @@ permalink: /about/
 
 
 
+
+
 **VISION**
 
 “전 세계 전문가들이 인정하는 IoT Service Platform을 보유한 회사”
@@ -28,6 +30,8 @@ permalink: /about/
 인간에 대한 이해와 기술적 가치를 담아낸,
 관련 업계에서 칭송받는 IoT Service Platform을 완성하고, 자랑할 것입니다.
 이를 통해, 기술적 기반과 그를 뛰어넘는 insight로, 인간과 삶의 가치를 구현하는 초석을 다질 것입니다.
+
+
 
 
 
@@ -45,4 +49,10 @@ permalink: /about/
 
 – no 윤리, no Biz.
 
+
+에이치티비욘드
+
+서울시 강남구 밤고개로 1길 10 1518호 (우.06349)
+Tel. 070-7752-4646, Fax 02-2040-6556
+사업자등록번호 : 499-86-00150
 [admin@htbeyond.com](mailto:admin@htbeyond.com)
