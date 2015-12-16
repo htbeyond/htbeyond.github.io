@@ -22,17 +22,12 @@ permalink: /about/
 ### “전 세계 전문가들이 인정하는 IoT Service Platform을 보유한 회사”
 
 > 현재 인간과 가장 맞닿아 있는 기술인 Smart 제품들, 그 중에서도
-
 > 가까운 미래의 중심이 될 Smart home / IoT Service는
-
 > HT beyond가 가장 강점을 가질 수 있는 영역입니다.
 
 > 우리는 우리의 유리함과 열정을 기반으로,
-
 > 2020년에는 기술의 반석에 인간과 삶의 가치를 담아낸
-
 > IoT Service Platform을 완성하고 자랑할 것입니다. 이를 통해,
-
 > HT beyond의 존재가치를 증명하고 인정받아, 칭송받는 기업의 초석을 다질 것입니다.
 
 
