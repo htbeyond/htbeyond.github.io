@@ -7,10 +7,6 @@ permalink: /about/
 
 ![_config.yml]({{ site.baseurl }}/images/Htbeyond_to.png)
 
-
-BEYOND
-
-
 ## MISSION
 
 ### “기술의 현재를 뛰어넘어, 인간과 삶을 보다 가치있게 하는 세상을 만든다”
