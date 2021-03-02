@@ -39,7 +39,3 @@ permalink: /about/
 * **개인의 완성**이, 팀의 성공이 될 수 있다
 * 소통은 **존중**으로부터 나와, **존중**으로 완성된다
 * no **윤리**, no Biz.
-
-
-## INFORMATION
-![_config.yml]({{ site.baseurl }}/images/address_01.png)
